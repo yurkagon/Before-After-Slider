@@ -13,7 +13,7 @@
     height: 100%;
     position: absolute;
     overflow: hidden;
-    transition: width 0.2s  linear;
+    transition: width 0.08s  ease;
     background-size: cover; }
 
 input[type=range] {
