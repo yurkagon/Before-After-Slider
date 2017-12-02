@@ -24,11 +24,6 @@ $(document).ready(function(){
 		
 	});
 
-	//mouseout
-	$('.myslide').mouseout(function(event) {
-		$('.myslide .photo').eq(1).css('width', '100%');
-	});
-
 
 	//range
 	$('.rangeInput').on('input',function(){
