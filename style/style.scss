@@ -17,7 +17,7 @@ $size: 1/$size_value;
 		height: 100%;
 		position: absolute;
 		overflow: hidden;
-//		transition: width 0.05s  ease;
+		transition: width 0.2s  linear;
 		
 		background-size: cover;
 	}
